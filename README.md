@@ -1,2 +1,0 @@
-# Thiru
-Practice
